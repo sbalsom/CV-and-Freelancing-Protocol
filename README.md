@@ -24,6 +24,7 @@ For static webpages I use Middleman, a lightweight framework designed to work wi
 
 Throughout my workflow I use Trello for project management, Git for version control, and document my progress for my client, using powerpoints to demonstrate the current state of the project and all future steps until deployment.
 
+## How I work with you
 
 ### 1. We discuss the project
 I chat with you by email, on twitter, on skype, on slack... wherever you prefer to have this initial conversation. 
