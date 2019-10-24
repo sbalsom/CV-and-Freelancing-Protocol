@@ -51,5 +51,3 @@ Sie haben die Möglichkeit, den Zugriff auf den Quellcode für die zukünftige P
 ### 5. Rechnungsstellung
 Ich schicke Ihnen die Rechnung und die vereinbarte Vergütung wird (maximal innerhalb eines Monats) auf mein Bankkonto überwiesen.
 
-
-Übersetzt mit www.DeepL.com/Translator
