@@ -2,7 +2,7 @@
 
 ## Wie ich mit meinen Kunden arbeite:
 
-Ich bin ein Junior Fullstack-Entwickler und biete meine Dienstleistungen als Angebot für Start-ups an, die technischen Support bei der Einführung ihrer Produkte benötigen. Ich biete meine Dienstleistungen für 30€/Stunde oder 150€/Tag an, oder mein Kunde und ich können einen Flatrate für ein größeres Projekt festlegen.
+Ich bin ein Junior Fullstack-Entwickler und biete meine Dienstleistungen als Angebot für Start-ups an, die technischen Support bei der Einführung ihrer Produkte benötigen. Ich biete meine Dienstleistungen für 50€/Stunde oder 300€/Tag an, oder mein Kunde und ich können einen Flatrate für ein größeres Projekt festlegen.
 
 ## Backend:
 
