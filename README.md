@@ -2,7 +2,7 @@
 
 ## How I Work With My Freelance Clients :
 
-I am a junior fullstack developer, offering my services as a package for startups who need technical support launching their products. I offer my services at 30€/hour or 150€/day, or my client and I can decide on a fixed rate for a larger project.
+I am a junior fullstack developer, offering my services as a package for startups who need technical support launching their products. I offer my services at 50€/hour or 300€/day, or my client and I can decide on a fixed rate for a larger project.
 
 ## Backend :
 
