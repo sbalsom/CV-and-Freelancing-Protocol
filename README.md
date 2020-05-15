@@ -8,7 +8,9 @@ I am a junior fullstack developer, offering my services as a package for startup
 
 I am trained in Ruby on Rails and have experience working with PostGreSQL and Heroku to deploy apps, build RESTful APIs and handle user authentication and authorization using Devise and Pundit. I've also worked with Sinatra for smaller apps.
 
-I can render JSON from the backend or fetch and parse JSON from secondary collections of data (APIs). I use Nokogiri to scrape the web for open-source data.
+I have similar experience developing apps using Python/Flask.
+
+I can render JSON from the backend or fetch and parse JSON from external interfaces (APIs). I use Nokogiri to scrape the web for open-source data.
 
 I am versed in SQL and database queries using ActiveRecord, handling params and building forms, relational databases and model associations, MVC software architecture patterns.
 
