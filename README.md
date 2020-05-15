@@ -2,7 +2,7 @@
 
 ## How I Work With My Freelance Clients :
 
-I am a junior fullstack developer, offering my services as a package for startups who need technical support launching their products. I offer my services at 50€/hour or 300€/day, or my client and I can decide on a fixed rate for a larger project.
+I am a junior fullstack developer, offering my services as a package for startups who need technical support launching their products. I offer my services at 125€/day, or my client and I can decide on a fixed rate for a larger project.
 
 ## Backend :
 
@@ -49,4 +49,4 @@ Your website or app is deployed on this domain.
 You have the option to maintain access to the source code for future website maintenance.
 
 ### 5. Billing
-I send you the invoice and the agreed upon remuneration is transferred (within one month maximum) to my bank account.
+I send you the invoice and the agreed upon remuneration is transferred (within one month) to my bank account.
